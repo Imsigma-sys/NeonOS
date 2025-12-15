@@ -1,2 +1,2 @@
 # NeonOS
-A lightweight and fast OS (still in dev)
+Lightweight and fast by design. Complex when you want, simple when you need.”  (still in dev)
